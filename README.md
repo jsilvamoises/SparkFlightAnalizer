@@ -3,10 +3,11 @@ Analisador de voos do Brasil
 
 ## Dependencias
 para executar esse projeto siga as dicas abaixo
-1) Verifique se possui o Java 8 Instalado se não baixo no site da oracle
-2) Instale o Anaconda atravéz do site 
-3) Baixe o Spark atravéz do site e descompate em uma pasta no C:/spark no windows ou no /home/usuario/spark no linux
-4) Clone esse repositório em sua maquina
+1) Verifique se possui o Java 8 Instalado se não baixo no site da oracle 
+no link: https://www.oracle.com/technetwork/pt/java/javase/downloads/jre8-downloads-2133155.html
+2) Instale o Anaconda atravéz do site https://anaconda.org/
+3) Baixe o Spark atravéz do site https://spark.apache.org/ e descompate em uma pasta no C:/spark no windows ou no /home/usuario/spark no linux
+4) Clone esse repositório em sua maquina: git clone https://github.com/jsilvamoises/SparkFlightAnalizer.git
 5) abra o terminal ou cmd e execute os comando abaixo:
 
 
@@ -28,6 +29,5 @@ python start.py -s false
 # true mostra os graficos conforme vai gerando
 
 ```
-10) Se arquivo deve conter todas essas pastas
-![Image description](https://www.dropbox.com/s/ijkoseisqkuqbr0/captura_pastas.PNG?dl=1)
-* as pastas csv, html e img são criadas na execução do sistema
+10) se tudo der certo dentro da pasta csv, imagem e html terá os graficos e csvs gerados no processamentos com os resultados
+
