@@ -1,0 +1,5 @@
+baixar o winutils.exe e colocar dentro da pasta bin do spark
+pip install findspark
+pip install wordcloud
+pip install folium
+pip install pandas >=0.23.2
