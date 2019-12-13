@@ -11,7 +11,7 @@ import webbrowser
 
 mapa_path ={}
 mapa_path["windows"] = "C:/spark3"
-mapa_path["linux"] = "/home/moises/spark3"
+mapa_path["linux"] = "/home/spark-3.0.0-preview-bin-hadoop2.7"
 
 import findspark
 
