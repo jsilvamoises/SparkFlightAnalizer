@@ -28,3 +28,6 @@ python start.py -s false
 # true mostra os graficos conforme vai gerando
 
 ```
+10) Se arquivo deve conter todas essas pastas
+![Image description](https://www.dropbox.com/s/ijkoseisqkuqbr0/captura_pastas.PNG?dl=1)
+* as pastas csv, html e img são criadas na execução do sistema
