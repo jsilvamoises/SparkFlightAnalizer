@@ -12,7 +12,7 @@ if __name__== '__main__':
     else:
         s = True
 
-
+    s =True
     try:
         fa = FlightAnalizer()
     except:

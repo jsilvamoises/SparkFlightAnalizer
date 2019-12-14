@@ -86,7 +86,7 @@ class FlightAnalizer:
             background_color='white',
             collocations=False).generate(strings)
         plt.figure(figsize=(15,8))
-        plt.title("Principais destinos internacionais em 2017",fontdict=font)
+        plt.title("Principais destinos internacionais de 2015 à 2017 ",fontdict=font)
         plt.imshow(wordcloud,interpolation='bicubic')
         plt.axis("off")
         plt.savefig("img/principais_destinos_word_cloud"+".png", bbox_inches='tight')
